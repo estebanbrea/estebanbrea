@@ -2,7 +2,7 @@
 ![1733008529164](https://github.com/user-attachments/assets/16b27f86-7028-442b-9143-52a2294da408)
 
 <h1 align="center">Hi 👋, I'm Esteban Brea</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Uruguay</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
