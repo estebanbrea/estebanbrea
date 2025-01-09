@@ -1,4 +1,5 @@
-![Esteban Brea](https://github.com/user-attachments/assets/e26d9822-a9cc-4a70-bf19-0b8990368354)
+
+![Esteban Brea](https://github.com/user-attachments/assets/74e71d4b-1977-46c4-ba3d-f82103baff4f)
 
 <h1 align="center">Hi 👋, I'm Esteban Brea</h1>
 <h3 align="center">A passionate frontend and backend developer from Uruguay</h3>
